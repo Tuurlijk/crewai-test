@@ -1,0 +1,14 @@
+webextension_developer_task:
+  description: >
+    Your task is to build webextensions that will perfectly execute the function 
+    as described in {product_description}.
+  expected_output: >
+    A complete and functioning webextension.
+
+test_webextension_task:
+  description: >
+    You will verify that the code written by webextension_developer functions 
+    as described in {product_description}.
+  expected_output: >
+    A report on the workings of the code written by the developer. The report
+    contains suggestions for improvement of the code.
